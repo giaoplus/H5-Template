@@ -1,0 +1,7 @@
+:root {
+  --text-color: #000000;
+}
+
+:root[theme='dark'] {
+  --text-color: #FFFFFF;
+}
